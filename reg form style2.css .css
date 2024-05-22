@@ -1,0 +1,62 @@
+#A1{
+    width: 500px;
+    height: auto;
+}
+body{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}    
+.col {
+    height: auto;
+}
+#A2{
+    width: 243px;
+    height: auto;
+}
+#A3{
+    width: 157px;
+    height: auto;
+
+}
+#A4{
+    width: 100px;
+    height: auto;
+}
+#A5{
+    width: 500px;
+    height: 150px;
+}
+#A6{
+    color: white;
+    background-color: rgb(82, 34, 94);
+    border: rgb(68, 29, 79);
+    height: 30px;
+    
+}
+#A7{
+     border: 10px solid rgb(38, 27, 53);
+     border: 5px  rgb(68, 26, 101) dotted;
+    width: 500px;
+    height:2px; 
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+
+}
+.input:hover{
+    border-color: lightskyblue;
+
+
+}
+body{
+    background: url(https://img.lovepik.com/background/20211021/small/lovepik-blue-matte-background-image_401641682.jpg);
+    
+}
